@@ -10,12 +10,28 @@ This product includes 'Base64' (https://github.com/nicklockwood/Base64), which i
 
 ----------------------------------------------------------------
 
+This product includes 'Custom HTTP Protocol' (https://developer.apple.com/library/ios/samplecode/CustomHTTPProtocol/Introduction/Intro.html), which is released under the following license(s):
+    Apple Custom HTTP Protocol <https://developer.apple.com/library/ios/samplecode/CustomHTTPProtocol/Listings/CustomHTTPProtocol_main_m.html>
+
+----------------------------------------------------------------
+
 This product includes 'NSURLConnectionVCR' (https://bitbucket.org/martijnthe/nsurlconnectionvcr), which is released under the following license(s):
     BSD 2-Clause <http://opensource.org/licenses/BSD-2-Clause>
 
 ----------------------------------------------------------------
 
 This product includes 'OCMock' (http://ocmock.org/), which is released under the following license(s):
+    MIT <http://opensource.org/licenses/mit-license.html>
+
+----------------------------------------------------------------
+
+This product includes 'PLCrashReporter' (https://www.plcrashreporter.org/), which is released under the following license(s):
+    Apache 2.0 <http://www.apache.org/licenses/LICENSE-2.0.html>
+    MIT <http://opensource.org/licenses/mit-license.html>
+
+----------------------------------------------------------------
+
+This product includes 'QuincyKit' (http://quincykit.net/), which is released under the following license(s):
     MIT <http://opensource.org/licenses/mit-license.html>
 
 ----------------------------------------------------------------
